@@ -3,3 +3,5 @@ Java Concept
 2. Inheritace
 3. Polymorphism
 4. Abstract
+5. Interface
+6. Class
